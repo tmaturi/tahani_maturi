@@ -124,7 +124,7 @@ She is interested in developing statistical methodologies for a variety of real 
  
 #### Other publications
  
-Tahani A. Maturi (2010). Nonparametric Predictive Inference for Multiple Comparisons. PhD Thesis, Durham University, UK. [Full text](/papers/TM10.pdf)
+Tahani A. Maturi (2010). Nonparametric Predictive Inference for Multiple Comparisons. PhD Thesis, Durham University, UK. [[Full text]](/papers/TM10.pdf)
  
  
  
