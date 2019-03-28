@@ -20,12 +20,11 @@ Email:  tahani.maturi [at] durham.ac.uk
 
 ### Current PhD students
 
+- Ms Kholood Alyazidi: *Nonparametric predictive inference for inventory decisions* (jointly supervised by Frank Coolen). To start October 2018.
 
-Ms Kholood Alyazidi: *Nonparametric predictive inference for inventory decisions* (jointly supervised by Frank Coolen). To start October 2018.
+- Mr Abdulmajeed Alharbi: *Nonparametric predictive inference for classification* (1st supervisor Frank Coolen). To start October 2018.
 
-Mr Abdulmajeed Alharbi: *Nonparametric predictive inference for classification* (1st supervisor Frank Coolen). To start October 2018.
-
-Mr Masad Alrasheedi: *Nonparametric predictive inference for credit scoring and loan data* (2nd supervisor Frank Coolen). To start October 2018.
+- Mr Masad Alrasheedi: *Nonparametric predictive inference for credit scoring and loan data* (2nd supervisor Frank Coolen). To start October 2018.
 
 Mr Assamh Alluhayb: *Nonparametric predictive inference bootstrap with right-censored data* (started April 2018, jointly supervised by Frank Coolen), Department of Mathematical Sciences, Durham University.
 
